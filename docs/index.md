@@ -10,7 +10,7 @@ hero:
       link: /cpp/
     - theme: alt
       text: GitHub
-      link: https://github.com/jack/knowledge-base
+      link: https://github.com/lcx123-code/knowledge
 features:
   - title: C++
     details: 面向对象、继承多态、STL 标准库、算法分析
